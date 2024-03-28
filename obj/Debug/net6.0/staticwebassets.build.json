@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "m04WcXTtbw/XdaeBdE41NPdNNc45ferpdbFB4OL+rcU=",
+  "Source": "smartPaperScanner",
+  "BasePath": "_content/smartPaperScanner",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "smartPaperScanner\\wwwroot",
+      "Source": "smartPaperScanner",
+      "ContentRoot": "D:\\project angular\\smartPaperScanner\\wwwroot\\",
+      "BasePath": "_content/smartPaperScanner",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\project angular\\smartPaperScanner\\wwwroot\\favicon.ico",
+      "SourceId": "smartPaperScanner",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\project angular\\smartPaperScanner\\wwwroot\\",
+      "BasePath": "_content/smartPaperScanner",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

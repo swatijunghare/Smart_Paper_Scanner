@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZWCTmNmugeBkueijDfTiO6JjfLZdEUy/Wp1zSt3ASz90CiYozQ6WEdorcr57YcmMOCqGSONr7vwX7Dvju++XGA==",
+  "success": true,
+  "projectFilePath": "D:\\project angular\\smartPaperScanner\\smartPaperScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lahi211\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.26\\microsoft.aspnetcore.spaproxy.6.0.26.nupkg.sha512",
+    "C:\\Users\\lahi211\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\lahi211\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\lahi211\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\lahi211\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
